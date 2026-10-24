@@ -21,7 +21,7 @@ pipeline {
         }
         stage('Release') {
             steps {
-                echo 'Reeasing Application'
+                echo 'Releasing Application'
             }
         }
     }
